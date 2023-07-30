@@ -14,6 +14,6 @@ print(30 * "*")
 total = phy + che + mat
 print("The total marks scored by the student in Physics", phy, "Chemistry", che, "Mathematics", mat, "is", total)
 print(30 * "*")
-# Calculate percentage
+
 percent = (total/max_marks) * 100
 print("Percentage of the Student:", round(percent))
