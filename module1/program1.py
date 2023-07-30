@@ -16,4 +16,3 @@ print("The total marks scored by the student in Physics", phy, "Chemistry", che,
 print(30 * "*")
 
 percent = (total/max_marks) * 100
-print("Percentage of the Student:", round(percent))
