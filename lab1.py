@@ -17,3 +17,4 @@ print(30 * "*")
 
 percent = (total/max_marks) * 100
 print("Percentage of the Student:", round(percent))
+
