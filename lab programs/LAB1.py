@@ -1,4 +1,6 @@
-#(a) Develop a python program to read student details Name, USN and Marks in the three subjects.
+|LAB 1 (A)|
+|--------------------------------------------------------------------------------------------------------------------------------------|
+|#(a) Develop a python program to read student details Name, USN and Marks in the three subjects.
 name = input("Enter the student name: ")
 usn = input("Enter the student USN: ")
 phy = int(input("Enter the marks obtained in Physics: "))
@@ -13,7 +15,7 @@ total = phy + che + mat
 print("The total marks scored by the student in Physics", phy, "Chemistry", che, "Mathematics", mat, "is", total)
 print(30 * "*")
 percent = (total/max_marks) * 100
-print("Percentage of the Student:", round(percent))
+print("Percentage of the Student:", round(percent))|
 
 # (b) Develop a program to reas the name and year of birth of a person. Display whether the person is a senior citizen or not.
 import datetime
