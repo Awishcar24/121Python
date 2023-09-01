@@ -18,3 +18,11 @@ print(30 * "*")
 percent = (total/max_marks) * 100
 print("Percentage of the Student:", round(percent))
 
+# Python program to calculate distance between two points
+x1 = float(input("Enter the x1 value: "))
+x2 = float(input("Enter the x2 value: "))
+y1 = float(input("Enter the y1 value: "))
+y2 = float(input("Enter the y2 value: "))
+# Display the co-ordinates of two points
+print("Co-ordinates of first point are (",x1, ",", y1,")")
+print("Co-ordinates of second point are (",x2, ",", y2,")")
